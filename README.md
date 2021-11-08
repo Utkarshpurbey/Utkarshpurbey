@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Utkarshpurbey
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in Web app development
 - 🌱 I’m currently learning ds and algo
 - 💞️ I’m looking to collaborate on mobile app development
 - 📫 How to reach me instagram at the_purbey
