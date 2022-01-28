@@ -3,7 +3,7 @@
 
 
 </p>
-<div size='20px'> Hi! I'm Thilak. 
+<div size='20px'> Hi! I'm Utkarsh Purbey. 
 </div>
 
 <h2> About Me </h2>
