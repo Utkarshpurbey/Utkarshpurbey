@@ -29,7 +29,7 @@
   
   
   
-<h2 align="left">Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"></h2>
+<h2 align="left">Connect with me :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align='center' width="100px"></h2>
 <p align="left">
 <a href="https://instagram.com/the_purbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_purbey" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/utkarsh-purbey-74972a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshpurbey" height="30" width="40" /></a>
