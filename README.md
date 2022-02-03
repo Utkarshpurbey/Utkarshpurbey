@@ -6,12 +6,14 @@
 <div size='20px'> Hi! I'm Utkarsh Purbey. 
 </div>
   <h2> About Me</h2>
+  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-
 - 🌱 I’m currently learning **React**..
+  
 - 💬 Talk to me about coding and eSports Stuff..
+  
 - 📫 How to reach me **utkarshpurbey@gmail.com**..
 
 
