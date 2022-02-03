@@ -29,7 +29,7 @@
   
   
   
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me : <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/q7MQP6mA2W91Yqf9pv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-q7MQP6mA2W91Yqf9pv"></a></p></h2>
 <p align="left">
 <a href="https://instagram.com/the_purbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_purbey" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/utkarsh-purbey-74972a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshpurbey" height="30" width="40" /></a>
