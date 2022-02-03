@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Utkarsh Purbey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align='center' width = 50px></h1>
+<h1 align="center">Hi, I'm Utkarsh Purbey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align='center' width = 40px></h1>
 <h3 align="center">A passionate frontend developer from Katihar ,Bihar,India</h3>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
