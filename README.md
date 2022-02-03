@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Utkarsh Purbey</h1>
+h3 align="center">A passionate frontend developer from Katihar ,Bihar,India</h3>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3 align="center">A passionate frontend developer from Katihar ,Bihar,India</h3>
+<
 
 - 🌱 I’m currently learning **React**
 - 
