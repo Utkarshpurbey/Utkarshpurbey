@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align='center' width = 50px> </h1>
+<h1> Hello Fellow <Developers>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align='center' width = 50px> </h1>
 <p align='center'>
 
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**..
   
-- 💬 Talk to me about coding and eSports Stuff..
+- 💬 Talk to me about **CODING**,**eSports** and **Sneaker** Stuff..
   
 - 📫 How to reach me **utkarshpurbey@gmail.com**..
   
